@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hugo on 秦楠楠的博客</title>
+    <link>https://examplesite.com/tags/hugo/</link>
+    <description>Recent content in Hugo on 秦楠楠的博客</description>
+    <image>
+      <title>秦楠楠的博客</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 09 Jan 2025 13:00:00 +0800</lastBuildDate>
+    <atom:link href="https://examplesite.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo博客优化技巧与最佳实践</title>
+      <link>https://examplesite.com/pages/hugo-tips-tricks/</link>
+      <pubDate>Thu, 09 Jan 2025 13:00:00 +0800</pubDate>
+      <guid>https://examplesite.com/pages/hugo-tips-tricks/</guid>
+      <description>分享Hugo博客的性能优化、SEO优化和用户体验提升技巧</description>
+    </item>
+    <item>
+      <title>Hello Hugo! 欢迎使用Hugo博客</title>
+      <link>https://examplesite.com/pages/hello-hugo/</link>
+      <pubDate>Thu, 09 Jan 2025 10:00:00 +0800</pubDate>
+      <guid>https://examplesite.com/pages/hello-hugo/</guid>
+      <description>介绍Hugo静态网站生成器的基本使用方法</description>
+    </item>
+  </channel>
+</rss>
